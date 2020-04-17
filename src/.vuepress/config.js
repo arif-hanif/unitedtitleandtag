@@ -1,10 +1,12 @@
 module.exports = {
-    title: "United Title and Tag",
+    title: "United Title and Tag, LLC.",
     description:
-      "A collection of short tutorial to help with everyday GraphQL development in .NET",
+      "A website for small business",
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
+        { text: 'Services', link: '/services/' },
+        { text: 'Frequently Asked Questions', link: '/frequently-asked-questions/'},
         { text: 'Forms', link: '/forms/' }
       ],
       docsDir: "src"
