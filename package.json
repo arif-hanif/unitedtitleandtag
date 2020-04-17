@@ -1,0 +1,16 @@
+{
+  "name": "unitedtitleandtag",
+  "version": "1.0.0",
+  "description": "website for united title and tag",
+  "main": "index.js",
+  "repository": "https://github.com/arif-hanif/unitedtitleandtag.git",
+  "author": "Arif Hanif <arif.hanif3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
+  },
+  "dependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
