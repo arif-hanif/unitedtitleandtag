@@ -1,3 +1,7 @@
+<p align="center">
+<img :src="$withBase('/forms-image.png')" alt="" height="250px">
+</p>
+
 ## Forms
 
 #### [Application for a certificate of title (VR-005)](http://www.mva.maryland.gov/_resources/docs/VR-005.pdf)
