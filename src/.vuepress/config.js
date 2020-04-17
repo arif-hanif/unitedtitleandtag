@@ -1,5 +1,5 @@
 module.exports = {
-    title: "United Title and Tag, LLC.",
+    title: "United Title & Tag, LLC.",
     description:
       "A website for small business",
     themeConfig: {

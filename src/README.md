@@ -1,6 +1,7 @@
 ---
 home: true
 heroText: Welcome, we are here to help you.
+heroImage: /billboard.png
 tagline: Family owned and operated MVA Tag and Title experts, we are licensed by the state of Maryland since 2002.
 features:
   - title: Service
@@ -9,7 +10,7 @@ features:
     details: We strive to build long term relationships with businesses and people in the community.
   - title: Fast
     details: No More Long Lines To Ever Endure.
-footer: Copyright © 2020-present | United Title and Tag, Inc.
+footer: Copyright © 2020-present | United Title and Tag, LLC.
 ---
 
 ### Call us at 410-869-1488
