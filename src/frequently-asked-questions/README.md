@@ -1,7 +1,7 @@
----
-heroText: Frequently Asked Questions (FAQs)
-footer: Copyright © 2020-present | United Title and Tag, Inc.
----
+<p align="center">
+<img :src="$withBase('/faq-image.png')" alt="" height="250px">
+</p>
+
 ## What is needed to title a used car?
 
 **Proof of ownership** - The vehicle's current title has to be properly assigned to you.  If the title was issued in Maryland, it can be used as your application for titling and registering the vehicle. If the vehicle is from a state that does not issue a title as proof of ownership, a registration document and a bill of sale may be submitted as proof of ownership.
